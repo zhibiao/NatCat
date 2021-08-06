@@ -1,0 +1,16 @@
+{
+  "appId": "netcat",
+  "productName": "netcat",
+  "directories": {
+    "app": "build",
+    "output": "dist"
+  },
+  "asar": true,
+  "win": {
+    "target": [
+      "portable"
+    ],
+    "icon": "logo.png"
+  },
+  "files": []
+}
